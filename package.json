@@ -1,0 +1,23 @@
+{
+  "name": "gxme",
+  "version": "1.0.0",
+  "description": "gxme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wwwmewww/gxme.git"
+  },
+  "keywords": [
+    "cocos",
+    "creator"
+  ],
+  "author": "lixu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wwwmewww/gxme/issues"
+  },
+  "homepage": "https://github.com/wwwmewww/gxme#readme"
+}
