@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "gxme",
   "main": "index.js",
+  "bin": {
+    "gxme-cli": "./index.cli.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/wwwmewww/gxme/issues"
   },
-  "homepage": "https://github.com/wwwmewww/gxme#readme"
+  "homepage": "https://github.com/wwwmewww/gxme#readme",
+  "dependencies": {
+    "commander": "^4.0.1",
+    "inquirer": "^7.0.1"
+  }
 }
